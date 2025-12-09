@@ -118,4 +118,4 @@ Kopiera texten ovan, skapa filen `README.md` i din mapp och spara.
 
 **Vill du att jag visar hur du hittar ditt `SP_SITE_ID` via Graph Explorer?** Det är ofta det klurigaste steget i konfigurationen.
 
-Hello Sharepoint Cloud!
+Hello Sharepoint Cloud.
